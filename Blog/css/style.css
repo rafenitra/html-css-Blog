@@ -1,0 +1,187 @@
+.icon {
+    width: 20px;
+    height: 20px;
+}
+
+.navbar-inverse {
+    background-color: #fbf6f6;
+    border-color: #fbf6f6;
+}
+
+.active {
+    background-color: #54b155;
+}
+
+#miloko {
+    background-color: #54b155;
+}
+
+#tete .row {
+    display: flex;
+    justify-content: space-around;
+}
+
+#search {}
+
+#liste li:hover {
+    color: #54b155;
+}
+
+#logo {
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+}
+
+#tete {
+    margin-top: 20px;
+    background-color: #fbf6f6;
+}
+
+#tete .active {
+    color: #54b155;
+}
+
+#tete .btn:hover {
+    color: #54b155;
+    background-color: white;
+}
+
+#tete .row {
+    display: flex;
+}
+
+#Ambony {
+    margin-top: 40px;
+}
+
+#Ambony img {
+    width: 100%;
+    border-radius: 3px;
+}
+
+#sary1,
+#sary2,
+#sary3 {
+    width: 100%;
+    width: 100%;
+}
+
+.asinafiltre {
+    position: relative;
+}
+
+#filtre1,
+#filtre2,
+#filtre3 {
+    width: 360px;
+    height: 100%;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.705);
+    top: 0%;
+    text-align: center;
+    display: none;
+}
+
+#filtre1 p,
+#filtre2 p,
+#filtre3 p {
+    color: aliceblue;
+    font-size: 20px;
+}
+
+#filtre1 div,
+#filtre2 div,
+#filtre3 div {
+    margin: auto;
+    text-align: center;
+}
+
+#filtre1 .bokotra,
+#filtre2 .bokotra,
+#filtre3 .bokotra {
+    background-color: #54b155;
+    color: white;
+    border: white solid 1px;
+    border-radius: 5%;
+    width: 80px;
+}
+
+#pub {
+    border: none;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+main {
+    margin-top: 15px;
+}
+
+.loko {
+    height: 2px;
+    background-color: #0ca2f7;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#page {
+    margin-top: 10px;
+    height: 50px;
+    background-color: #fbf6f6;
+    display: flex;
+}
+
+.pagination {
+    margin: auto;
+}
+
+footer {
+    margin-top: 25px;
+}
+
+footer img {
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+}
+
+#anarana {
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    color: #54b155;
+    text-align: center;
+    font-size: 20px;
+}
+
+#anarana .row {
+    margin: auto;
+}
+
+#maitso {
+    height: 100px;
+    background-color: #54b155;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    color: whitesmoke;
+    font-size: 16px;
+}
+
+#Ambony button {
+    border: none;
+}
+
+section h1 {
+    color: #54b155;
+}
+
+#lokoina {
+    background-color: #11b0f5;
+    border: none;
+    border-radius: 5%;
+    color: white;
+    padding: 3px;
+    align-items: center;
+}
